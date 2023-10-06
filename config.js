@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['94779122081', 'Rashu Official²⁰²³', true],
+  ['94779122081', 'Rashu Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
+global.mods = ['94742310419','94779122081'] 
 global.prems = ['94740804536', '94740804536', '94740804536']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '𝐍𝐑 𝐑𝐀𝐒𝐇𝐔 𝐌𝐎𝐃𝐙...💗🥺'
 global.premium = 'true'
 global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
